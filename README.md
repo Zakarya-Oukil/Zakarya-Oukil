@@ -5,15 +5,15 @@
 -->
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/oukil078-oss/oukil078-oss/main/assets/terminal-matrix.svg" width="100%" alt="Animated terminal header for Zakarya Oukil" />
+  <img src="https://raw.githubusercontent.com/Zakarya-Oukil/Zakarya-Oukil/main/assets/terminal-matrix.svg" width="100%" alt="Animated terminal header for Zakarya Oukil" />
 </p>
 
-<h3 align="left"><code>oukil078-oss@github:~$ ./identity.sh</code></h3>
+<h3 align="left"><code>Zakarya-Oukil@github:~$ ./identity.sh</code></h3>
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=oukil078-oss&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/portrait?username=oukil078-oss&theme=aurora&style=terminal&mode=dark" width="300" align="left" alt="ASCII terminal portrait of oukil078-oss" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=Zakarya-Oukil&theme=aurora&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/portrait?username=Zakarya-Oukil&theme=aurora&style=terminal&mode=dark" width="300" align="left" alt="ASCII terminal portrait of Zakarya-Oukil" />
   </picture>
 </p>
 
@@ -45,12 +45,12 @@ mindset     : Build → learn → test → improve
 <p align="left">
   <a href="https://www.linkedin.com/in/zakaryaoukil/"><img src="https://img.shields.io/badge/LinkedIn-06130f?style=flat-square&logo=linkedin&logoColor=00f5b8&labelColor=06130f" alt="LinkedIn" /></a>
   <a href="https://zakarya-oukil-flagship.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06130f?style=flat-square&logo=vercel&logoColor=00f5b8&labelColor=06130f" alt="Portfolio" /></a>
-  <a href="https://github.com/oukil078-oss"><img src="https://img.shields.io/badge/GitHub-06130f?style=flat-square&logo=github&logoColor=00f5b8&labelColor=06130f" alt="GitHub" /></a>
+  <a href="https://github.com/Zakarya-Oukil"><img src="https://img.shields.io/badge/GitHub-06130f?style=flat-square&logo=github&logoColor=00f5b8&labelColor=06130f" alt="GitHub" /></a>
 </p>
 
 ---
 
-<h3 align="left"><code>oukil078-oss@github:~$ cat interests.log</code></h3>
+<h3 align="left"><code>Zakarya-Oukil@github:~$ cat interests.log</code></h3>
 
 ```console
 [01] Full-stack web development
@@ -60,7 +60,7 @@ mindset     : Build → learn → test → improve
 [05] CTFs, university labs, and project-based learning
 ```
 
-<h3 align="left"><code>oukil078-oss@github:~$ ls --stack</code></h3>
+<h3 align="left"><code>Zakarya-Oukil@github:~$ ls --stack</code></h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,docker,kubernetes,postgres,mongodb,linux,bash,git,githubactions&perline=15&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, Docker, Kubernetes, PostgreSQL, MongoDB, Linux, Bash, Git, and GitHub Actions" />
@@ -68,7 +68,7 @@ mindset     : Build → learn → test → improve
 
 ---
 
-<h3 align="left"><code>oukil078-oss@github:~$ find ~/repositories -maxdepth 1 -type d</code></h3>
+<h3 align="left"><code>Zakarya-Oukil@github:~$ find ~/repositories -maxdepth 1 -type d</code></h3>
 
 ```text
 ~/repositories
@@ -88,46 +88,46 @@ mindset     : Build → learn → test → improve
 
 ### Open a repository
 
-- [`cd ~/repositories/Obisidian`](https://github.com/oukil078-oss/Obisidian)
-- [`cd ~/repositories/HermesTemplates`](https://github.com/oukil078-oss/HermesTemplates)
-- [`cd ~/repositories/Sentinel-AI`](https://github.com/oukil078-oss/Sentinel-AI)
-- [`cd ~/repositories/BioAuth`](https://github.com/oukil078-oss/BioAuth)
-- [`cd ~/repositories/tp_Biometrie`](https://github.com/oukil078-oss/tp_Biometrie)
-- [`cd ~/repositories/za-campus`](https://github.com/oukil078-oss/za-campus)
-- [`cd ~/repositories/zakarya-oukil-flagship`](https://github.com/oukil078-oss/zakarya-oukil-flagship)
-- [`cd ~/repositories/za-chat`](https://github.com/oukil078-oss/za-chat)
-- [`cd ~/repositories/raqaba-cloud-saas`](https://github.com/oukil078-oss/raqaba-cloud-saas)
-- [`cd ~/repositories/sentinel-shield`](https://github.com/oukil078-oss/sentinel-shield)
-- [`cd ~/repositories/AgenticOS`](https://github.com/oukil078-oss/AgenticOS)
-- [`cd ~/repositories/zakarya-cybersecurity-portfolio`](https://github.com/oukil078-oss/zakarya-cybersecurity-portfolio)
+- [`cd ~/repositories/Obisidian`](https://github.com/Zakarya-Oukil/Obisidian)
+- [`cd ~/repositories/HermesTemplates`](https://github.com/Zakarya-Oukil/HermesTemplates)
+- [`cd ~/repositories/Sentinel-AI`](https://github.com/Zakarya-Oukil/Sentinel-AI)
+- [`cd ~/repositories/BioAuth`](https://github.com/Zakarya-Oukil/BioAuth)
+- [`cd ~/repositories/tp_Biometrie`](https://github.com/Zakarya-Oukil/tp_Biometrie)
+- [`cd ~/repositories/za-campus`](https://github.com/Zakarya-Oukil/za-campus)
+- [`cd ~/repositories/zakarya-oukil-flagship`](https://github.com/Zakarya-Oukil/zakarya-oukil-flagship)
+- [`cd ~/repositories/za-chat`](https://github.com/Zakarya-Oukil/za-chat)
+- [`cd ~/repositories/raqaba-cloud-saas`](https://github.com/Zakarya-Oukil/raqaba-cloud-saas)
+- [`cd ~/repositories/sentinel-shield`](https://github.com/Zakarya-Oukil/sentinel-shield)
+- [`cd ~/repositories/AgenticOS`](https://github.com/Zakarya-Oukil/AgenticOS)
+- [`cd ~/repositories/zakarya-cybersecurity-portfolio`](https://github.com/Zakarya-Oukil/zakarya-cybersecurity-portfolio)
 
 ---
 
-<h3 align="left"><code>oukil078-oss@github:~$ ./telemetry --live</code></h3>
+<h3 align="left"><code>Zakarya-Oukil@github:~$ ./telemetry --live</code></h3>
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=oukil078-oss&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=oukil078-oss&theme=aurora&style=terminal&mode=dark" width="100%" alt="Terminal-styled contribution heatmap" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Zakarya-Oukil&theme=aurora&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=Zakarya-Oukil&theme=aurora&style=terminal&mode=dark" width="100%" alt="Terminal-styled contribution heatmap" />
   </picture>
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oukil078-oss&show_icons=true&hide_border=true&title_color=00f5b8&icon_color=00f5b8&text_color=c9d1d9&bg_color=00000000" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oukil078-oss&layout=compact&hide_border=true&title_color=00f5b8&text_color=c9d1d9&bg_color=00000000" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakarya-Oukil&show_icons=true&hide_border=true&title_color=00f5b8&icon_color=00f5b8&text_color=c9d1d9&bg_color=00000000" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakarya-Oukil&layout=compact&hide_border=true&title_color=00f5b8&text_color=c9d1d9&bg_color=00000000" alt="Most used programming languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oukil078-oss&hide_border=true&background=00000000&ring=00F5B8&fire=00F5B8&currStreakLabel=00F5B8&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zakarya-Oukil&hide_border=true&background=00000000&ring=00F5B8&fire=00F5B8&currStreakLabel=00F5B8&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="GitHub contribution streak" />
 </p>
 
-<h3 align="left"><code>oukil078-oss@github:~$ ./snake.sh</code></h3>
+<h3 align="left"><code>Zakarya-Oukil@github:~$ ./snake.sh</code></h3>
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oukil078-oss/oukil078-oss/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oukil078-oss/oukil078-oss/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/oukil078-oss/oukil078-oss/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zakarya-Oukil/Zakarya-Oukil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zakarya-Oukil/Zakarya-Oukil/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Zakarya-Oukil/Zakarya-Oukil/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
   </picture>
 </p>
 
@@ -139,5 +139,5 @@ Session closed. Keep building.
 ```
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=oukil078-oss&style=flat-square&color=00f5b8&label=PROFILE+PACKETS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zakarya-Oukil&style=flat-square&color=00f5b8&label=PROFILE+PACKETS" alt="Profile views" />
 </p>
